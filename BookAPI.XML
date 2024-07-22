@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Book Management API Test Suite">
+    <test name="Add Book Tests">
+        <classes>
+            <class name="addingbookclass"/>
+        </classes>
+    </test>
+    <test name="Retrieve Book Tests">
+        <classes>
+            <class name="retreivingbookclass"/>
+        </classes>
+    </test>
+    <test  name="Update Book Tests">
+        <classes>
+            <class name="Updatingbookclass"/>
+        </classes>
+    </test>
+    <test name="Delete Book Tests">
+        <classes>
+            <class name="Deletingbookclass"/>
+        </classes>
+    </test>
+</suite>
