@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Web Application Test Suite">
+    <test name="User Registration Tests">
+        <classes>
+            <class name="UserRegistrationclass"/>
+        </classes>
+    </test>
+    <test name="User Login Tests">
+        <classes>
+            <class name="UserLoginclass"/>
+        </classes>
+    </test>
+    <test name="User Dashboard Tests">
+        <classes>
+        
+            <class name="UserDashboardclass"/>
+        </classes>
+    </test>
+</suite>
